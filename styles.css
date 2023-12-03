@@ -51,8 +51,8 @@ a {
 
 @media (max-width: 900px) {
      #main {
-          background-color: grey;
-          color: black;
+          background-image: linear-gradient(62deg, #e2d7a5 0%, #181719 100%);
+          color: whitesmoke;
 
      }
 
